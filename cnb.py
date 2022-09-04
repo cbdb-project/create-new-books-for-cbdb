@@ -41,7 +41,7 @@ create_date_idx = 22
 
 # setup index for input
 personid_input_idx = 0
-title_chn_input_idx =1
+title_chn_input_idx = 1
 source_input_idx = 2
 
 # get input data
