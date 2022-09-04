@@ -67,6 +67,9 @@ for row in input_list:
 
 # output data
 with open("output.csv", "w", encoding="utf-8", newline="") as f:
+    output_writer = csv.writer(f)
+    output_writer.writerows(output)
+with open("output.txt", "w", encoding="utf-8", newline="") as f:
     output_writer = csv.writer(f, delimiter='\t')
     output_writer.writerows(output)
     
