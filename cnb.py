@@ -23,7 +23,7 @@ def convert_pinyin(string_chn):
 def remove_vol_info(string_chn):
     return re.sub(r"[:：].+", "", string_chn)
 
-print("working...")
+print("Working...")
 
 # create output list, create column names
 output = [["\ufefftts_sysno", "c_textid", "c_title_chn", "c_title", "c_title_trans", "c_text_type_id", "c_text_year", "c_text_nh_code", "c_text_nh_year", "c_text_range_code", "c_bibl_cat_code", "c_extant", "c_text_country", "c_text_dy", "c_source", "c_pages", "c_secondary_source_author", "c_url_api", "c_url_homepage", "c_notes", "c_title_alt_chn", "c_created_by", "c_created_date", "c_modified_by", "c_modified_date"]]
