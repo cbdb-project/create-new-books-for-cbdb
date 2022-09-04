@@ -12,8 +12,8 @@ def get_new_textid(url_get_last_text_id):
     c_textid = html_soup.find('input', {"name":"c_textid"})
     return int(c_textid['value'])
 
-def get_dy_from_personid(personid, url_get_index_year):
-    resp = requests.get(url_get_index_year + personid).json()
+def get_dy_from_personid(personid, url_get_dynasty):
+    resp = requests.get(url_get_dynasty + personid).json()
     return(str(resp['c_dy']))
 
 def convert_pinyin(string_chn):
@@ -25,7 +25,7 @@ output = [["\ufefftts_sysno", "c_textid", "c_title_chn", "c_title", "c_title_tra
 
 # setup url resources
 cbdb_api_url = "input.cbdb.fas.harvard.edu"
-url_get_index_year = f'https://{cbdb_api_url}/basicinformation/'
+url_get_dynasty = f'https://{cbdb_api_url}/basicinformation/'
 url_get_last_text_id = f'https://{cbdb_api_url}/textcodes/create'
 
 # setup index for output
@@ -61,7 +61,7 @@ for row in input_list:
     output_row[title_idx] = convert_pinyin(row[title_chn_input_idx])
     output_row[text_type_idx] = "01"
     output_row[text_cat_idx] = "1" if row[title_chn_input_idx][-1] == "集" else "0"
-    output_row[text_dy_idx] = get_dy_from_personid(row[personid_input_idx], url_get_index_year)
+    output_row[text_dy_idx] = get_dy_from_personid(row[personid_input_idx], url_get_dynasty)
     output_row[source_idx] = row[source_input_idx]
     output_row[create_by_idx] = "load"
     output_row[create_date_idx] = f"{date.today().year}{str('{:0>2d}'.format(date.today().month))}{str('{:0>2d}'.format(date.today().day))}"
