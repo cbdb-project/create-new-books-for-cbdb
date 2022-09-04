@@ -6,7 +6,7 @@ from datetime import date
 # pip install pypinyin
 from pypinyin import lazy_pinyin
 
-# 
+# functions
 def get_new_textid(url_get_last_text_id):
     html_soup = BeautifulSoup(requests.get(url_get_last_text_id).text, features="lxml")
     c_textid = html_soup.find('input', {"name":"c_textid"})
