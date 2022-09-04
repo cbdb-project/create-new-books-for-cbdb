@@ -15,8 +15,9 @@ def get_new_textid(url_get_last_text_id):
 output = [["\ufefftts_sysno", "c_textid", "c_title_chn", "c_title", "c_title_trans", "c_text_type_id", "c_text_year", "c_text_nh_code", "c_text_nh_year", "c_text_range_code", "c_bibl_cat_code", "c_extant", "c_text_country", "c_text_dy", "c_source", "c_pages", "c_secondary_source_author", "c_url_api", "c_url_homepage", "c_notes", "c_title_alt_chn", "c_created_by", "c_created_date", "c_modified_by", "c_modified_date"]]
 
 #setup url resources
-url_get_index_year = 'https://input.cbdb.fas.harvard.edu/basicinformation/'
-url_get_last_text_id = 'https://input.cbdb.fas.harvard.edu/textcodes/create'
+cbdb_api_url = "input.cbdb.fas.harvard.edu"
+url_get_index_year = f'https://{cbdb_api_url}/basicinformation/'
+url_get_last_text_id = f'https://{cbdb_api_url}/textcodes/create'
 
 # setup index for output
 textid_idx = 1
