@@ -1,15 +1,11 @@
 ﻿tts_sysno	c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-	62003	書經義要	shu jing yi yao		01					0			20	57941							load	20220904		
-	62004	雨餘堂集	yu yu tang ji		01					1			20	57941							load	20220904		
-	62005	芥溪詩集: 六卷	jie xi shi ji		01					0			20	57941							load	20220904		
-	62006	雜著: 四卷	za zhu		01					0			20	57941							load	20220904		
-	62007	周頌韻考	zhou song yun kao		01					0			20	57941							load	20220904		
-	62008	虛船詩文集	xu chuan shi wen ji		01					1			20	57941							load	20220904		
-	62009	眉白集	mei bai ji		01					1			20	57941							load	20220904		
-	62010	周禮補選	zhou li bu xuan		01					0			20	57941							load	20220904		
-	62011	蓉湖制藝	rong hu zhi yi		01					0			20	57941							load	20220904		
-	62012	瑯嬛津逮	lang huan jin dai		01					0			20	57941							load	20220904		
-	62013	雅乘志餘	ya cheng zhi yu		01					0			20	57941							load	20220904		
-	62014	星巖集	xing yan ji		01					1			20	57941							load	20220904		
-	62015	易林補義	yi lin bu yi		01					0			20	57941							load	20220904		
-	62016	test	test		01					0			15	57941							load	20220904		
+	62014	鄉黨圖考	xiang dang tu kao		01					0			20	57941							load	20220904		
+	62015	詩集: 五卷	shi ji		01					1			20	57941							load	20220904		
+	62016	周易闡要: 三卷	zhou yi chan yao		01					0			20	57941							load	20220904		
+	62017	蕉巖遺稿	jiao yan yi gao		01					1			20	57941							load	20220904		
+	62018	蓮塘詩稿	lian tang shi gao		01					1			20	57941							load	20220904		
+	62019	元燈心法	yuan deng xin fa		01					0			20	57941							load	20220904		
+	62020	道古堂初刻	dao gu tang chu ke		01					0			20	57941							load	20220904		
+	62021	道古齋詩稿	dao gu zhai shi gao		01					1			20	57941							load	20220904		
+	62022	道古齋文稿	dao gu zhai wen gao		01					1			20	57941							load	20220904		
+	62023	水經注校正	shui jing zhu jiao zheng		01					0			20	57941							load	20220904		

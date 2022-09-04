@@ -20,6 +20,11 @@ def convert_pinyin(string_chn):
     string_chn = re.sub(r"[:：].+", "", string_chn)
     return " ".join([word for word in lazy_pinyin(string_chn)])
 
+def remove_vol_info(string_chn):
+    return re.sub(r"[:：].+", "", string_chn)
+
+print("working...")
+
 # create output list, create column names
 output = [["\ufefftts_sysno", "c_textid", "c_title_chn", "c_title", "c_title_trans", "c_text_type_id", "c_text_year", "c_text_nh_code", "c_text_nh_year", "c_text_range_code", "c_bibl_cat_code", "c_extant", "c_text_country", "c_text_dy", "c_source", "c_pages", "c_secondary_source_author", "c_url_api", "c_url_homepage", "c_notes", "c_title_alt_chn", "c_created_by", "c_created_date", "c_modified_by", "c_modified_date"]]
 
@@ -60,7 +65,7 @@ for row in input_list:
     output_row[title_chn_idx] = row[title_chn_input_idx]
     output_row[title_idx] = convert_pinyin(row[title_chn_input_idx])
     output_row[text_type_idx] = "01"
-    output_row[text_cat_idx] = "1" if row[title_chn_input_idx][-1] == "集" else "0"
+    output_row[text_cat_idx] = "1" if (remove_vol_info(row[title_chn_input_idx])[-1] in ["集", "稿"] ) else "0"
     output_row[text_dy_idx] = get_dy_from_personid(row[personid_input_idx], url_get_dynasty)
     output_row[source_idx] = row[source_input_idx]
     output_row[create_by_idx] = "load"
