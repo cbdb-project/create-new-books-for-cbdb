@@ -6,15 +6,24 @@ from datetime import date
 # pip install pypinyin
 from pypinyin import lazy_pinyin
 
+# 
 def get_new_textid(url_get_last_text_id):
     html_soup = BeautifulSoup(requests.get(url_get_last_text_id).text, features="lxml")
     c_textid = html_soup.find('input', {"name":"c_textid"})
     return int(c_textid['value'])
 
-# create output, create db headline
+def get_dy_from_personid(personid, url_get_index_year):
+    resp = requests.get(url_get_index_year + personid).json()
+    return(str(resp['c_dy']))
+
+def convert_pinyin(string_chn):
+    string_chn = re.sub(r"[:：].+", "", string_chn)
+    return " ".join([word for word in lazy_pinyin(string_chn)])
+
+# create output list, create column names
 output = [["\ufefftts_sysno", "c_textid", "c_title_chn", "c_title", "c_title_trans", "c_text_type_id", "c_text_year", "c_text_nh_code", "c_text_nh_year", "c_text_range_code", "c_bibl_cat_code", "c_extant", "c_text_country", "c_text_dy", "c_source", "c_pages", "c_secondary_source_author", "c_url_api", "c_url_homepage", "c_notes", "c_title_alt_chn", "c_created_by", "c_created_date", "c_modified_by", "c_modified_date"]]
 
-#setup url resources
+# setup url resources
 cbdb_api_url = "input.cbdb.fas.harvard.edu"
 url_get_index_year = f'https://{cbdb_api_url}/basicinformation/'
 url_get_last_text_id = f'https://{cbdb_api_url}/textcodes/create'
@@ -41,14 +50,6 @@ with open("input.csv", "r", encoding="utf-8") as f:
     f_handle = csv.reader(f, delimiter="\t")
     for row in f_handle:
         input_list.append(row)
-
-def get_dy_from_personid(personid, url_get_index_year):
-    resp = requests.get(url_get_index_year + personid).json()
-    return(str(resp['c_dy']))
-
-def convert_pinyin(string_chn):
-    string_chn = re.sub(r"[:：].+", "", string_chn)
-    return " ".join([word for word in lazy_pinyin(string_chn)])
 
 # create output data
 textid_begin = get_new_textid(url_get_last_text_id)
