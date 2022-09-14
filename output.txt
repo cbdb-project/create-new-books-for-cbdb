@@ -1,24 +1,6 @@
 ﻿tts_sysno	c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-	62040	紅鵝館詩鈔	hong e guan shi chao		01					0			20	18417							load	20220905		
-	62041	鳳山集	feng shan ji		01					1			20	18417							load	20220905		
-	62042	竹山房稿	zhu shan fang gao		01					1			20	18417							load	20220905		
-	62043	周氏集	zhou shi ji		01					1			19	18417							load	20220905		
-	62044	坦庵集	tan an ji		01					1			19	18417							load	20220905		
-	62045	惜陰圖說	xi yin tu shuo		01					0			19	18417							load	20220905		
-	62046	五經演説	wu jing yan shuo		01					0			19	18417							load	20220905		
-	62047	治衢詳箸: 八卷	zhi qu xiang zhu		01					0			19	18417							load	20220905		
-	62048	讀史悶全編	du shi men quan bian		01					0			19	18417							load	20220905		
-	62049	苦海舌華四集	ku hai she hua si ji		01					1			19	18417							load	20220905		
-	62050	小品碎錦	xiao pin sui jin		01					0			19	18417							load	20220905		
-	62051	治河明鏡: 四卷	zhi he ming jing		01					0			20	18417							load	20220905		
-	62052	治格會通: 二百七十餘卷	zhi ge hui tong		01					0			20	18417							load	20220905		
-	62053	明儒源流錄: 二十卷	ming ru yuan liu lu		01					0			20	18417							load	20220905		
-	62054	毛詩析解	mao shi xi jie		01					0			20	18417							load	20220905		
-	62055	紫萊閣集	zi lai ge ji		01					1			20	18417							load	20220905		
-	62056	海岸山人詩鈔	hai an shan ren shi chao		01					0			20	18417							load	20220905		
-	62057	課孫集: 二十四卷	ke sun ji		01					1			20	18417							load	20220905		
-	62058	貽謀集: 二十四卷	yi mou ji		01					1			20	18417							load	20220905		
-	62059	小學初筮: 二卷	xiao xue chu shi		01					0			20	18417							load	20220905		
-	62060	明史: 十二卷	ming shi		01					0			20	18417							load	20220905		
-	62061	滇游湘萍	dian you xiang ping		01					0			20	18417							load	20220905		
-	62062	白門諸草	bai men zhu cao		01					1			20	18417							load	20220905		
+	62109	冶園古文: 二卷	ye yuan gu wen		01					0			20	57941							load	20220914		
+	62110	煦堂經說: 四卷	xu tang jing shuo		01					0			20	57941							load	20220914		
+	62111	留竹草堂詩集	liu zhu cao tang shi ji		01					1			20	57941							load	20220914		
+	62112	春秋三傳合參: 十二卷	chun qiu san chuan he can		01					0			20	57941							load	20220914		
+	62113	周官註疏輯解: 六卷	zhou guan zhu shu ji jie		01					0			20	57941							load	20220914		
