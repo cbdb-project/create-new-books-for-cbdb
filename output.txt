@@ -1,21 +1,15 @@
 ﻿tts_sysno	c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-	62147	爪雪居詩文	zhao xue ju shi wen		01					1			20	57941							load	20220917		
-	62148	松門晚稿	song men wan gao		01					1			20	57941							load	20220917		
-	62149	涵春稿	han chun gao		01					1			20	57941							load	20220917		
-	62150	陰騭文輯註	yin zhi wen ji zhu		01					0			20	57941							load	20220917		
-	62151	易義纂訓	yi yi zuan xun		01					0			20	57941							load	20220917		
-	62152	春秋屬辭述指	chun qiu shu ci shu zhi		01					0			20	57941							load	20220917		
-	62153	西漢文類選	xi han wen lei xuan		01					0			20	57941							load	20220917		
-	62154	東溪古文集	dong xi gu wen ji		01					1			20	57941							load	20220917		
-	62155	擬策	ni ce		01					0			20	57941							load	20220917		
-	62156	古罍詩賦集	gu lei shi fu ji		01					1			20	57941							load	20220917		
-	62157	制藝	zhi yi		01					0			20	57941							load	20220917		
-	62158	九經集解: 十二卷	jiu jing ji jie		01					0			20	57941							load	20220917		
-	62159	筆耒餘談: 六十卷	bi lei yu tan		01					0			20	57941							load	20220917		
-	62160	吳中百一謠	wu zhong bai yi yao		01					0			20	57941							load	20220917		
-	62161	春臺詩	chun tai shi		01					0			20	57941							load	20220917		
-	62162	吟窗小草	yin chuang xiao cao		01					1			20	57941							load	20220917		
-	62163	南州草	nan zhou cao		01					1			20	57941							load	20220917		
-	62164	礫鳴集	li ming ji		01					1			20	57941							load	20220917		
-	62165	觀雲集	guan yun ji		01					1			20	57941							load	20220917		
-	62166	毛詩集古箋註: 四十卷	mao shi ji gu jian zhu		01					0			20	57941							load	20220917		
+	62147	敬升堂輯語錄	jing sheng tang ji yu lu		01					0			20	57941							load	20220917		
+	62148	四書指略	si shu zhi lve		01					0			20	57941							load	20220917		
+	62149	讀易筆記	du yi bi ji		01					0			20	57941							load	20220917		
+	62150	古城書院文集	gu cheng shu yuan wen ji		01					1			20	57941							load	20220917		
+	62151	芝山草堂詩稿	zhi shan cao tang shi gao		01					1			20	57941							load	20220917		
+	62152	白雲深處雜吟	bai yun shen chu za yin		01					0			20	57941							load	20220917		
+	62153	朱子精語	zhu zi jing yu		01					0			20	57941							load	20220917		
+	62154	朱子節要	zhu zi jie yao		01					0			20	57941							load	20220917		
+	62155	近思錄	jin si lu		01					0			20	57941							load	20220917		
+	62156	呂氏童蒙訓	lv shi tong meng xun		01					0			20	57941							load	20220917		
+	62157	高子節要	gao zi jie yao		01					0			20	57941							load	20220917		
+	62158	先儒腋裘集	xian ru ye qiu ji		01					1			20	57941							load	20220917		
+	62159	信天賸話	xin tian sheng hua		01					0			20	57941							load	20220917		
+	62160	淇竹山房集: 十卷	qi zhu shan fang ji		01					1			20	57941							load	20220917		
