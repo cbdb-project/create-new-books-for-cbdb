@@ -67,7 +67,7 @@ for row in input_list:
     output_row[text_type_idx] = "01"
     output_row[text_cat_idx] = "1" if \
         ((remove_vol_info(row[title_chn_input_idx])[-1] in ["集", "稿", "草"]) or \
-        (remove_vol_info(row[title_chn_input_idx])[-2] in ["詩文"])) \
+        (remove_vol_info(row[title_chn_input_idx])[-2:] in ["詩文"])) \
         else "0"
     output_row[text_dy_idx] = get_dy_from_personid(row[personid_input_idx], url_get_dynasty)
     output_row[source_idx] = row[source_input_idx]
