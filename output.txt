@@ -1,17 +1,4 @@
 ﻿tts_sysno	c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-	62162	吹幽錄: 五十卷	chui you lu		01					0			20	57941							load	20220924		
-	62163	說文理董: 四十卷	shuo wen li dong		01					0			20	57941							load	20220924		
-	62164	音韻討論: 四卷	yin yun tao lun		01					0			20	57941							load	20220924		
-	62165	文字源流: 六卷	wen zi yuan liu		01					0			20	57941							load	20220924		
-	62166	金石文釋: 六卷	jin shi wen shi		01					0			20	57941							load	20220924		
-	62167	臨江鄉人集: 四卷	lin jiang xiang ren ji		01					1			20	57941							load	20220924		
-	62168	唯識論文釋: 二卷	wei shi lun wen shi		01					0			20	57941							load	20220924		
-	62169	五要須知: 一卷	wu yao xu zhi		01					0			20	57941							load	20220924		
-	62170	觀所緣緣論釋: 一卷	guan suo yuan yuan lun shi		01					0			20	57941							load	20220924		
-	62171	因明八正理論後記: 一卷	yin ming ba zheng li lun hou ji		01					0			20	57941							load	20220924		
-	62172	因明正理門論: 一卷	yin ming zheng li men lun		01					0			20	57941							load	20220924		
-	62173	昭慶律寺志: 十卷	zhao qing lv si zhi		01					0			20	57941							load	20220924		
-	62174	藏畫記: 一卷	cang hua ji		01					0			20	57941							load	20220924		
-	62175	大藏摘髓	da zang zhai sui		01					0			20	57941							load	20220924		
-	62176	樂志堂詩稿: 一卷	le zhi tang shi gao		01					1			20	57941							load	20220924		
-	62177	陵雲軒詩: 一卷	ling yun xuan shi		01					0			20	57941							load	20220924		
+	62209	春暉樓文集: 十卷	chun hui lou wen ji		01					1			20	57941							load	20221031		
+	62210	五華軒文集	wu hua xuan wen ji		01					1			20	57941							load	20221031		
+	62211	達原詩鈔	da yuan shi chao		01					0			20	57941							load	20221031		
