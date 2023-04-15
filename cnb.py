@@ -56,13 +56,18 @@ with open("input.csv", "r", encoding="utf-8") as f:
     for row in f_handle:
         input_list.append(row)
 
+def clean_colon(title):
+    title = re.sub(r" ", "", title)
+    title = re.sub(r"[:：]", ": ", title)
+    return title
+
 # create output data
 textid_begin = get_new_textid(url_get_last_text_id)
 for row in input_list:
     output_row = [""]*len(output[0])
     textid_begin += 1
     output_row[textid_idx] = textid_begin
-    output_row[title_chn_idx] = row[title_chn_input_idx]
+    output_row[title_chn_idx] = clean_colon(row[title_chn_input_idx])
     output_row[title_idx] = convert_pinyin(row[title_chn_input_idx])
     output_row[text_type_idx] = "01"
     output_row[text_cat_idx] = "1" if \
