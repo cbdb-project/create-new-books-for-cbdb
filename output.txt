@@ -1,33 +1,15 @@
 ﻿tts_sysno	c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-	64879	棣園遺稿	di yuan yi gao		01					1			20	57941							load	20230414		
-	64880	步蟾居詩集	bu chan ju shi ji		01					1			20	57941							load	20230414		
-	64881	春江小草	chun jiang xiao cao		01					1			20	57941							load	20230414		
-	64882	劍南集	jian nan ji		01					1			20	57941							load	20230414		
-	64883	小草山房詩文集	xiao cao shan fang shi wen ji		01					1			20	57941							load	20230414		
-	64884	前後天圖說	qian hou tian tu shuo		01					0			20	57941							load	20230414		
-	64885	書經會通	shu jing hui tong		01					0			20	57941							load	20230414		
-	64886	詩經晰體	shi jing xi ti		01					0			20	57941							load	20230414		
-	64887	覺窗論說	jue chuang lun shuo		01					0			20	57941							load	20230414		
-	64888	半憨詩文集	ban han shi wen ji		01					1			20	57941							load	20230414		
-	64889	怡荊堂古文: 二卷	yi jing tang gu wen		01					0			20	57941							load	20230414		
-	64890	駢體文: 一卷	pian ti wen		01					0			20	57941							load	20230414		
-	64891	香茨詩鈔: 二卷	xiang ci shi chao		01					0			20	57941							load	20230414		
-	64892	制義: 一卷	zhi yi		01					0			20	57941							load	20230414		
-	64893	經解: 一卷	jing jie		01					0			20	57941							load	20230414		
-	64894	禮經要義	li jing yao yi		01					0			20	57941							load	20230414		
-	64895	讀史剩說	du shi sheng shuo		01					0			20	57941							load	20230414		
-	64896	寄亭薈說	ji ting hui shuo		01					0			20	57941							load	20230414		
-	64897	我齋文集	wo zhai wen ji		01					1			20	57941							load	20230414		
-	64898	寄亭詩集	ji ting shi ji		01					1			20	57941							load	20230414		
-	64899	楚頌山房詩文集: 十卷	chu song shan fang shi wen ji		01					1			20	57941							load	20230414		
-	64900	歙縣藝文志: 四卷	she xian yi wen zhi		01					0			20	57941							load	20230414		
-	64901	春秋人物論	chun qiu ren wu lun		01					0			20	57941							load	20230414		
-	64902	四書萃精: 三十四卷	si shu cui jing		01					0			20	57941							load	20230414		
-	64903	易原: 四卷	yi yuan		01					0			20	57941							load	20230414		
-	64904	禮經提要: 六卷	li jing ti yao		01					0			20	57941							load	20230414		
-	64905	聽鶯軒談藝: 十一卷	ting ying xuan tan yi		01					0			20	57941							load	20230414		
-	64906	思訓堂文稿	si xun tang wen gao		01					1			20	57941							load	20230414		
-	64907	四書五經說	si shu wu jing shuo		01					0			20	57941							load	20230414		
-	64908	痲疹切要篇	ma zhen qie yao pian		01					0			20	57941							load	20230414		
-	64909	苦竹山莊吟稿	ku zhu shan zhuang yin gao		01					1			20	57941							load	20230414		
-	64910	周易周禮表注	zhou yi zhou li biao zhu		01					0			20	57941							load	20230414		
+	64953	竹香遺稿	zhu xiang yi gao		01					1			20	57941							load	20230416		
+	64954	書傳析疑錄	shu chuan xi yi lu		01					0			20	57941							load	20230416		
+	64955	鄉黨節考	xiang dang jie kao		01					0			20	57941							load	20230416		
+	64956	古經義	gu jing yi		01					0			20	57941							load	20230416		
+	64957	史鏡	shi jing		01					0			20	57941							load	20230416		
+	64958	算學巵言	suan xue zhi yan		01					0			20	57941							load	20230416		
+	64959	金石紀聞	jin shi ji wen		01					0			20	57941							load	20230416		
+	64960	書巢吟草	shu chao yin cao		01					1			20	57941							load	20230416		
+	64961	消寒詩貼	xiao han shi tie		01					0			20	57941							load	20230416		
+	64962	四書參訂	si shu can ding		01					0			20	57941							load	20230416		
+	64963	四書摘解	si shu zhai jie		01					0			20	57941							load	20230416		
+	64964	詩經啓蒙	shi jing qi meng		01					0			20	57941							load	20230416		
+	64965	周易闡微	zhou yi chan wei		01					0			20	57941							load	20230416		
+	64966	歷朝詩學正宗	li chao shi xue zheng zong		01					0			20	57941							load	20230416		
