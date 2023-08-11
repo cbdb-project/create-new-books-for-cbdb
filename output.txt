@@ -1,13 +1,4 @@
 ﻿tts_sysno	c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-	65051	抱膝齋漫筆: 三卷	bao xi zhai man bi		01					0			19	65006							load	20230801		
-	65052	紫薇集	zi wei ji		01					1			19	65006							load	20230801		
-	65053	惕若齋文稿: 八卷	ti ruo zhai wen gao		01					1			20	65006							load	20230801		
-	65054	茶仙遺稿	cha xian yi gao		01					1			20	65006							load	20230801		
-	65055	扣槃集	kou pan ji		01					1			20	65006							load	20230801		
-	65056	切問齋集	qie wen zhai ji		01					1			20	65006							load	20230801		
-	65057	曝書亭集	pu shu ting ji		01					1			20	65006							load	20230801		
-	65058	卍川詩文集	wan chuan shi wen ji		01					1			20	65006							load	20230801		
-	65059	淮上紀聞	huai shang ji wen		01					0			20	65006							load	20230801		
-	65060	粵遊筆談	yue you bi tan		01					0			20	65006							load	20230801		
-	65061	繪事瑣言	hui shi suo yan		01					0			20	65006							load	20230801		
-	65062	繪言雕蟲	hui yan diao chong		01					0			20	65006							load	20230801		
+	65078	清祕述聞續: 十六卷	qing mi shu wen xu		01					0			20								load	20230811		
+	65079	清祕述聞再續	qing mi shu wen zai xu		01					0			20								load	20230811		
+	65080	訒齋吟稿	ren zhai yin gao		01					1			20	65006							load	20230811		
