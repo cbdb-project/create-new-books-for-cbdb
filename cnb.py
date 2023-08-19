@@ -5,6 +5,7 @@ import re
 from datetime import date
 # pip install pypinyin
 from pypinyin import lazy_pinyin
+import pandas as pd
 
 # functions
 def get_new_textid(url_get_last_text_id):
@@ -87,5 +88,9 @@ with open("output.csv", "w", encoding="utf-8", newline="") as f:
 with open("output.txt", "w", encoding="utf-8", newline="") as f:
     output_writer = csv.writer(f, delimiter='\t')
     output_writer.writerows(output)
+
+# output data to excel
+df = pd.DataFrame(output[1:], columns=output[0])
+df.to_excel("output.xlsx", index=False)
     
 print("Finished!")
