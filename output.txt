@@ -1,27 +1,27 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-66678	易贅	yi zhui		01					0			20	65192						load	20240329			
-66679	葛巾子內外集	ge jin zi nei wai ji		01					1			20	65192						load	20240329			
-66680	鴻逸堂稿	hong yi tang gao		01					1			20	65192						load	20240329			
-66681	河務心書	he wu xin shu		01					0			20	65192						load	20240329			
-66682	新安女行錄: 二十卷	xin an nv xing lu		01					0			20	65192						load	20240329			
-66683	傷寒問答	shang han wen da		01					0			20	65192						load	20240329			
-66684	慈幼筏	ci you fa		01					0			20	65192						load	20240329			
-66685	孝經類解	xiao jing lei jie		01					0			20	65192						load	20240329			
-66686	桂留堂集	gui liu tang ji		01					1			20	65192						load	20240329			
-66687	笠蔭樓詩集	li yin lou shi ji		01					1			20	65192						load	20240329			
-66688	宦遊集	huan you ji		01					1			20	65192						load	20240329			
-66689	黃山遊記	huang shan you ji		01					0			20	65192						load	20240329			
-66690	學庸廣義	xue yong guang yi		01					0			20	65192						load	20240329			
-66691	讀經疑義	du jing yi yi		01					0			20	65192						load	20240329			
-66692	卣堂集	you tang ji		01					1			20	65192						load	20240329			
-66693	潛山集	qian shan ji		01					1			20	65192						load	20240329			
-66694	修吉堂詩文集	xiu ji tang shi wen ji		01					1			20	65192						load	20240329			
-66695	律呂攷說篆	lv lv kao shuo zhuan		01					0			20	65192						load	20240329			
-66696	禹貢彙註	yu gong hui zhu		01					0			20	65192						load	20240329			
-66697	四書說義	si shu shuo yi		01					0			20	65192						load	20240329			
-66698	讀經筆記	du jing bi ji		01					0			20	65192						load	20240329			
-66699	離騷補註	li sao bu zhu		01					0			20	65192						load	20240329			
-66700	文矩時藝	wen ju shi yi		01					0			20	65192						load	20240329			
-66701	古文蔚華堂稿	gu wen wei hua tang gao		01					1			20	65192						load	20240329			
-66702	漪嵐草閣詩	yi lan cao ge shi		01					0			20	65192						load	20240329			
-66703	蒼崖小集	cang ya xiao ji		01					1			20	65192						load	20240329			
+66707	黃山二布衣詞: 十四卷	huang shan er bu yi ci		01					0			20	65192						load	20240405			
+66708	周頌韻考	zhou song yun kao		01					0			20	65192						load	20240405			
+66709	周禮義疏約貫: 十卷	zhou li yi shu yue guan		01					0			20	65192						load	20240405			
+66710	安玩堂詩文集: 二十卷	an wan tang shi wen ji		01					1			20	65192						load	20240405			
+66711	蘭簃詞	lan yi ci		01					0			None	65192						load	20240405			
+66712	字橋詞	zi qiao ci		01					0			20	65192						load	20240405			
+66713	詩韻存音	shi yun cun yin		01					0			20	65192						load	20240405			
+66714	嚶鳴集	ying ming ji		01					1			20	65192						load	20240405			
+66715	讀史僅說	du shi jin shuo		01					0			20	65192						load	20240405			
+66716	周禮集註	zhou li ji zhu		01					0			20	65192						load	20240405			
+66717	蘅臯詩話	heng gao shi hua		01					0			20	65192						load	20240405			
+66718	梅龍閣詩集	mei long ge shi ji		01					1			20	65192						load	20240405			
+66719	碧雲秋露詞	bi yun qiu lu ci		01					0			20	65192						load	20240405			
+66720	養正書屋全集	yang zheng shu wu quan ji		01					1			20	65192						load	20240405			
+66721	(道光)御製詩初集: 二十四卷	( dao guang ) yu zhi shi chu ji		01					1			20	65192						load	20240405			
+66722	夢陔堂詩集: 三十五卷	meng gai tang shi ji		01					1			20	65192						load	20240405			
+66723	下學盦算術勾股六術	xia xue an suan shu gou gu liu shu		01					0			20	65192						load	20240405			
+66724	象術一原	xiang shu yi yuan		01					0			20	65192						load	20240405			
+66725	橙陽散志續編: 十五卷	cheng yang san zhi xu bian		01					0			20	65192						load	20240405			
+66726	披雲漫筆: 十八卷	pi yun man bi		01					0			20	65192						load	20240405			
+66727	聞見閒語: 四卷	wen jian xian yu		01					0			20	65192						load	20240405			
+66728	梅賓詩鈔: 六卷	mei bin shi chao		01					0			20	65192						load	20240405			
+66729	讀史隨筆: 十二卷	du shi sui bi		01					0			20	65192						load	20240405			
+66730	心孩詩鈔: 三卷	xin hai shi chao		01					0			20	65192						load	20240405			
+66731	笠山雜誌: 四卷	li shan za zhi		01					0			20	65192						load	20240405			
+66732	笠山詩鈔: 一卷	li shan shi chao		01					0			20	65192						load	20240405			
