@@ -1,2 +1,3 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-66998	鷺門判牘: 一卷	lu men pan du		01					0			20	65192						load	20240531			
+67004	遺安堂詩集	yi an tang shi ji		01					1			20	38881						load	20240607			
+67005	奏疏: 二卷	zou shu		01					0			19	38881						load	20240607			
