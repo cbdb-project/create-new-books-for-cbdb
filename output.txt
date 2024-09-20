@@ -1,2 +1,20 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-67177	遺安集	yi an ji		01					1			19	67084						load	20240913			
+67180	續上海志	xu shang hai zhi		01					0			0	2067						load	20240920			
+67181	日躔曆指: 一卷	ri chan li zhi		01					0			19	2186						load	20240920			
+67182	測天約說: 二卷	ce tian yue shuo		01					0			19	2186						load	20240920			
+67183	大測: 二卷	da ce		01					0			19	2186						load	20240920			
+67184	日躔表: 二卷	ri chan biao		01					0			19	2186						load	20240920			
+67185	割圜八線表: 六卷	ge huan ba xian biao		01					0			19	2186						load	20240920			
+67186	黃道升度: 七卷	huang dao sheng du		01					0			19	2186						load	20240920			
+67187	黃赤距度表: 一卷	huang chi ju du biao		01					0			19	2186						load	20240920			
+67188	通率表: 一卷	tong lv biao		01					0			19	2186						load	20240920			
+67189	農書暦指	nong shu li zhi		01					0			19	2067						load	20240920			
+67190	漕河議	cao he yi		01					0			19	2067						load	20240920			
+67191	兵事巵言	bing shi zhi yan		01					0			19	2067						load	20240920			
+67192	學一齋集	xue yi zhai ji		01					1			19	67007						load	20240920			
+67193	宗一聖論	zong yi sheng lun		01					0			19	67007						load	20240920			
+67194	詩經正義: 二十七卷	shi jing zheng yi		01					0			19	57941						load	20240920			
+67195	兩浙長蘆事宜	liang zhe zhang lu shi yi		01					0			19	57941						load	20240920			
+67196	北關考	bei guan kao		01					0			19	57941						load	20240920			
+67197	丈量尺	zhang liang chi		01					0			19	57941						load	20240920			
+67198	王程集: 二卷	wang cheng ji		01					1			19	67007						load	20240920			
