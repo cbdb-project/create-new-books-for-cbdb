@@ -1,9 +1,62 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-67212	頖宮禮樂全書: 十六卷	pan gong li le quan shu		01					0			20	2067						load	20241004			
-67213	三嶽游	san yue you		01					0			19	67084						load	20241004			
-67214	二分明月樓集	er fen ming yue lou ji		01					1			20	65192						load	20241004			
-67215	聖濟總錄	sheng ji zong lu		01					0			20	65192						load	20241004			
-67216	葉氏指南	ye shi zhi nan		01					0			20	65192						load	20241004			
-67217	和淘詩: 三卷	he tao shi		01					0			20	65192						load	20241004			
-67218	叢桂山房詩稾	cong gui shan fang shi gao		01					0			20	65192						load	20241004			
-67219	問夜草: 七卷	wen ye cao		01					1			19	67007						load	20241004			
+67223	喉痧闡義	hou sha chan yi		01					0			20	65192						load	20241018			
+67224	鶴靜堂集	he jing tang ji		01					1			20	2067						load	20241018			
+67225	芝石山堂稿	zhi shi shan tang gao		01					1			20	35194						load	20241018			
+67226	環山堂集	huan shan tang ji		01					1			20	35194						load	20241018			
+67227	濟時三策	ji shi san ce		01					0			19	65192						load	20241018			
+67228	正心論	zheng xin lun		01					0			19	65192						load	20241018			
+67229	北園小草	bei yuan xiao cao		01					1			19	65192						load	20241018			
+67230	春秋講意	chun qiu jiang yi		01					0			19	65192						load	20241018			
+67231	新安志補	xin an zhi bu		01					0			19	65192						load	20241018			
+67232	可筠稾	ke yun gao		01					0			19	65192						load	20241018			
+67233	節烈遺事	jie lie yi shi		01					0			19	65192						load	20241018			
+67234	篤志集	du zhi ji		01					1			19	65192						load	20241018			
+67235	存性齋集	cun xing zhai ji		01					1			19	65192						load	20241018			
+67236	燕居漫稾	yan ju man gao		01					0			19	65192						load	20241018			
+67237	歷代諸臣傳贊	li dai zhu chen chuan zan		01					0			19	65192						load	20241018			
+67238	尚書講義	shang shu jiang yi		01					0			19	65192						load	20241018			
+67239	教賴園集	jiao lai yuan ji		01					1			19	65192						load	20241018			
+67240	六書正義	liu shu zheng yi		01					0			19	65192						load	20241018			
+67241	六書總要	liu shu zong yao		01					0			19	65192						load	20241018			
+67242	六書泝原	liu shu su yuan		01					0			19	65192						load	20241018			
+67243	諧聲指南	xie sheng zhi nan		01					0			19	65192						load	20241018			
+67244	切韻樞紐	qie yun shu niu		01					0			19	65192						load	20241018			
+67245	嵩陽集	song yang ji		01					1			19	65192						load	20241018			
+67246	東越傳宗	dong yue chuan zong		01					0			19	65192						load	20241018			
+67247	詩音辨略	shi yin bian lve		01					0			19	65192						load	20241018			
+67248	字母銓略	zi mu quan lve		01					0			19	65192						load	20241018			
+67249	六經流別	liu jing liu bie		01					0			19	65192						load	20241018			
+67250	國朝典故	guo chao dian gu		01					0			19	65192						load	20241018			
+67251	孝經大義	xiao jing da yi		01					0			19	65192						load	20241018			
+67252	讀史歌略	du shi ge lve		01					0			19	65192						load	20241018			
+67253	疑同集	yi tong ji		01					1			19	65192						load	20241018			
+67254	剖疑錄	pou yi lu		01					0			19	65192						load	20241018			
+67255	異字鏡	yi zi jing		01					0			19	65192						load	20241018			
+67256	自怡別錄	zi yi bie lu		01					0			19	65192						load	20241018			
+67257	華影集	hua ying ji		01					1			19	65192						load	20241018			
+67258	臥遊錄	wo you lu		01					0			19	65192						load	20241018			
+67259	夢覺篇	meng jue pian		01					0			19	65192						load	20241018			
+67260	煑字齋集	zhu zi zhai ji		01					1			19	65192						load	20241018			
+67261	飛霞閣集	fei xia ge ji		01					1			19	65192						load	20241018			
+67262	春秋通解	chun qiu tong jie		01					0			19	65192						load	20241018			
+67263	史鑑會要	shi jian hui yao		01					0			19	65192						load	20241018			
+67264	通鑑外紀	tong jian wai ji		01					0			19	65192						load	20241018			
+67265	性理便覽	xing li bian lan		01					0			19	65192						load	20241018			
+67266	讀易鈔	du yi chao		01					0			19	65192						load	20241018			
+67267	春秋傳略	chun qiu chuan lve		01					0			19	65192						load	20241018			
+67268	四書備忘錄	si shu bei wang lu		01					0			19	65192						load	20241018			
+67269	蛟峯文集	jiao feng wen ji		01					1			19	65192						load	20241018			
+67270	河間六書	he jian liu shu		01					0			19	65192						load	20241018			
+67271	自怡集	zi yi ji		01					1			19	65192						load	20241018			
+67272	擬古樂府	ni gu le fu		01					0			19	65192						load	20241018			
+67273	易證	yi zheng		01					0			19	65192						load	20241018			
+67274	孟子合論	meng zi he lun		01					0			19	65192						load	20241018			
+67275	心趣四篇	xin qu si pian		01					0			19	65192						load	20241018			
+67276	心說四篇	xin shuo si pian		01					0			19	65192						load	20241018			
+67277	原天原命	yuan tian yuan ming		01					0			19	65192						load	20241018			
+67278	緣督經	yuan du jing		01					0			19	65192						load	20241018			
+67279	周易集解	zhou yi ji jie		01					0			19	65192						load	20241018			
+67280	下菰集	xia gu ji		01					1			19	67007						load	20241018			
+67281	鑾江集	luan jiang ji		01					1			19	67007						load	20241018			
+67282	居東集	ju dong ji		01					1			19	67007						load	20241018			
+67283	李湘州文集	li xiang zhou wen ji		01					1			19	67007						load	20241018			
