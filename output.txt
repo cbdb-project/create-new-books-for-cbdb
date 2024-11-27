@@ -1,6 +1,5 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-67507	宋元綱目	song yuan gang mu		01					0			19	2067						load	20241122			
-67508	龍臯集	long gao ji		01					1			19	2067						load	20241122			
-67509	頤齋集	yi zhai ji		01					1			19	2067						load	20241122			
-67510	聖湖詩集	sheng hu shi ji		01					1			19	65192						load	20241122			
-67511	培菴集	pei an ji		01					1			19	65192						load	20241122			
+67515	容𤲅集: 十卷	rong 𤲅 ji		01					1			19	38685						load	20241127			
+67516	岸舫詩	an fang shi		01					0			20	65192						load	20241127			
+67517	阮堂深柳堂諸集	ruan tang shen liu tang zhu ji		01					1			20	65192						load	20241127			
+67518	坐花閣詩集	zuo hua ge shi ji		01					1			20	65192						load	20241127			
