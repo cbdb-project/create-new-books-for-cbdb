@@ -114,9 +114,13 @@ for row in input_list:
         )
         else "0"
     )
-    output_row[text_dy_idx] = get_dy_from_personid(
-        row[personid_input_idx], url_get_dynasty
-    )
+    try:
+        output_row[text_dy_idx] = get_dy_from_personid(
+            row[personid_input_idx], url_get_dynasty
+        )
+    except:
+        print(f"Error: {row[personid_input_idx]}")
+        raise
     output_row[source_idx] = row[source_input_idx]
     output_row[create_by_idx] = "load"
     output_row[create_date_idx] = (

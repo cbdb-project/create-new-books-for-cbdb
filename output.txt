@@ -1,36 +1,65 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-67522	定舫詩紀	ding fang shi ji		01					0			20	65192						load	20241213			
-67523	韻閣詩: 十卷	yun ge shi		01					0			20	65192						load	20241213			
-67524	茶園詩: 十卷	cha yuan shi		01					0			20	65192						load	20241213			
-67525	練江詩鈔	lian jiang shi chao		01					0			20	65192						load	20241213			
-67526	含翠樓詩文集	han cui lou shi wen ji		01					1			20	65192						load	20241213			
-67527	稽古堂詩: 六卷	ji gu tang shi		01					0			20	65192						load	20241213			
-67528	自怡草	zi yi cao		01					1			20	65192						load	20241213			
-67529	歷畊草	li geng cao		01					1			20	65192						load	20241213			
-67530	小巢湖詩	xiao chao hu shi		01					0			20	65192						load	20241213			
-67531	秋水晚山樓詩集	qiu shui wan shan lou shi ji		01					1			20	65192						load	20241213			
-67532	廣陵擪笛詞: 一卷	guang ling ye di ci		01					0			20	65192						load	20241213			
-67533	菊莊詩集	ju zhuang shi ji		01					1			20	65192						load	20241213			
-67534	琢春詞: 二卷	zuo chun ci		01					0			20	65192						load	20241213			
-67535	蘭雪編年稿	lan xue bian nian gao		01					1			20	65192						load	20241213			
-67536	鹿村集	lu cun ji		01					1			20	65192						load	20241213			
-67537	隨月樓詩鈔	sui yue lou shi chao		01					0			20	65192						load	20241213			
-67538	晴綺軒詩文集	qing qi xuan shi wen ji		01					1			20	65192						load	20241213			
-67539	重趼集	zhong jian ji		01					1			20	65192						load	20241213			
-67540	浣雲集	huan yun ji		01					1			20	65192						load	20241213			
-67541	楊園遺草: 二卷	yang yuan yi cao		01					1			20	65192						load	20241213			
-67542	吟息軒詩集	yin xi xuan shi ji		01					1			20	65192						load	20241213			
-67543	漁村賸稿	yu cun sheng gao		01					1			20	65192						load	20241213			
-67544	梅臯詩草	mei gao shi cao		01					1			20	65192						load	20241213			
-67545	杜詩心解	du shi xin jie		01					0			20	65192						load	20241213			
-67546	噓雲稿	xu yun gao		01					1			20	65192						load	20241213			
-67547	蝸角攄懷稿	wo jiao shu huai gao		01					1			20	65192						load	20241213			
-67548	安吉堂小草	an ji tang xiao cao		01					1			20	65192						load	20241213			
-67549	安定吟草	an ding yin cao		01					1			20	65192						load	20241213			
-67550	石門確史	shi men que shi		01					0			20	65192						load	20241213			
-67551	滄螺集	cang luo ji		01					1			20	65192						load	20241213			
-67552	笙山草堂詩集	sheng shan cao tang shi ji		01					1			20	65192						load	20241213			
-67553	一石山房稾	yi shi shan fang gao		01					0			20	65192						load	20241213			
-67554	春帆集	chun fan ji		01					1			20	65192						load	20241213			
-67555	拳石齋詩集	quan shi zhai shi ji		01					1			20	65192						load	20241213			
-67556	學田集	xue tian ji		01					1			20	65192						load	20241213			
+67558	水香園詩稿	shui xiang yuan shi gao		01					1			20	65192						load	20241220			
+67559	冶城游草	ye cheng you cao		01					1			20	65192						load	20241220			
+67560	滋蘭堂集	zi lan tang ji		01					1			20	65192						load	20241220			
+67561	續黃山志	xu huang shan zhi		01					0			20	65192						load	20241220			
+67562	七峯草堂詩稿: 十卷	qi feng cao tang shi gao		01					1			20	65192						load	20241220			
+67563	紅藥書莊詩	hong yao shu zhuang shi		01					0			20	65192						load	20241220			
+67564	半舫齋稾	ban fang zhai gao		01					0			20	65192						load	20241220			
+67565	用餘堂集	yong yu tang ji		01					1			20	65192						load	20241220			
+67566	若菴集	ruo an ji		01					1			20	65192						load	20241220			
+67567	儷體文鈔	li ti wen chao		01					0			20	65192						load	20241220			
+67568	昭明詩選輯注	zhao ming shi xuan ji zhu		01					0			20	65192						load	20241220			
+67569	黃睡漫志	huang shui man zhi		01					0			20	65192						load	20241220			
+67570	悔人草	hui ren cao		01					1			20	65192						load	20241220			
+67571	舍亭病餘錄	she ting bing yu lu		01					0			20	65192						load	20241220			
+67572	汪氏文獻錄	wang shi wen xian lu		01					0			15	65192						load	20241220			
+67573	新安紀程	xin an ji cheng		01					0			15	65192						load	20241220			
+67574	程槐堂詩文集	cheng huai tang shi wen ji		01					1			15	65192						load	20241220			
+67575	牀風雨集	chuang feng yu ji		01					1			20	65192						load	20241220			
+67576	粵遊草	yue you cao		01					1			20	65192						load	20241220			
+67577	且隱軒詩集	qie yin xuan shi ji		01					1			20	65192						load	20241220			
+67578	懲窒堂集	cheng zhi tang ji		01					1			20	65192						load	20241220			
+67579	拙巢詩集	zhuo chao shi ji		01					1			20	65192						load	20241220			
+67580	藥蒻園稾	yao ruo yuan gao		01					0			20	65192						load	20241220			
+67581	沐青樓集	mu qing lou ji		01					1			20	65192						load	20241220			
+67582	箕薹詩鈔	ji tai shi chao		01					0			20	65192						load	20241220			
+67583	蜀游草	shu you cao		01					1			20	65192						load	20241220			
+67584	露隱山房詩集	lu yin shan fang shi ji		01					1			20	65192						load	20241220			
+67585	酣隱詩	han yin shi		01					0			20	65192						load	20241220			
+67586	宛鳩居詩	wan jiu ju shi		01					0			20	65192						load	20241220			
+67587	清輝館集	qing hui guan ji		01					1			20	65192						load	20241220			
+67588	梅谷詩鈔	mei gu shi chao		01					0			20	65192						load	20241220			
+67589	夕秀齋詩鈔	xi xiu zhai shi chao		01					0			20	65192						load	20241220			
+67590	重閬齋詩集	zhong lang zhai shi ji		01					1			20	65192						load	20241220			
+67591	北溪草堂吟稾	bei xi cao tang yin gao		01					0			20	65192						load	20241220			
+67592	寒綠齋詩集	han lv zhai shi ji		01					1			20	65192						load	20241220			
+67593	京口遺音集	jing kou yi yin ji		01					1			20	65192						load	20241220			
+67594	澡雪吟稾	zao xue yin gao		01					0			20	65192						load	20241220			
+67595	澄秋閣詩集: 十二卷	cheng qiu ge shi ji		01					1			20	65192						load	20241220			
+67596	論山詩文集	lun shan shi wen ji		01					1			20	65192						load	20241220			
+67597	小齊雲山館詩鈔	xiao qi yun shan guan shi chao		01					0			20	65192						load	20241220			
+67598	花韻山房集	hua yun shan fang ji		01					1			20	65192						load	20241220			
+67599	白首江上集	bai shou jiang shang ji		01					1			20	65192						load	20241220			
+67600	晨村集	chen cun ji		01					1			20	65192						load	20241220			
+67601	櫧山艸堂詩稾	zhu shan cao tang shi gao		01					0			20	65192						load	20241220			
+67602	寄漚閒舫詩鈔	ji ou xian fang shi chao		01					0			20	65192						load	20241220			
+67603	宜秋閣詩鈔	yi qiu ge shi chao		01					0			20	65192						load	20241220			
+67604	雙梧集	shuang wu ji		01					1			19	2067						load	20241220			
+67605	恬齋遺詩	tian zhai yi shi		01					0			20	65192						load	20241220			
+67606	青棠館詩集	qing tang guan shi ji		01					1			20	65192						load	20241220			
+67607	秋浦詩鈔	qiu pu shi chao		01					0			20	65192						load	20241220			
+67608	澹芷詩鈔	dan zhi shi chao		01					0			20	65192						load	20241220			
+67609	六觀齋詩集	liu guan zhai shi ji		01					1			20	65192						load	20241220			
+67610	扶雲館詩	fu yun guan shi		01					0			20	65192						load	20241220			
+67611	玉句草堂詩集	yu ju cao tang shi ji		01					1			20	65192						load	20241220			
+67612	抱山堂詩選	bao shan tang shi xuan		01					0			20	65192						load	20241220			
+67613	持雅堂集	chi ya tang ji		01					1			20	65192						load	20241220			
+67614	味餘樓集	wei yu lou ji		01					1			20	65192						load	20241220			
+67615	湘雪軒詩	xiang xue xuan shi		01					0			20	65192						load	20241220			
+67616	富溪眺詠集	fu xi tiao yong ji		01					1			20	65192						load	20241220			
+67617	聽松樓詩	ting song lou shi		01					0			20	65192						load	20241220			
+67618	雙蟾閣詩	shuang chan ge shi		01					0			20	65192						load	20241220			
+67619	詅癡集	ling chi ji		01					1			20	65192						load	20241220			
+67620	江湖載酒吟	jiang hu zai jiu yin		01					0			20	65192						load	20241220			
+67621	憑山草堂集	ping shan cao tang ji		01					1			20	65192						load	20241220			
