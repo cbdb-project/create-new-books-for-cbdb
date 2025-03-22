@@ -1,14 +1,11 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-67846	蘭藻堂集	lan zao tang ji		01					1			20	2510						load	20250317			
-67847	蘊亭詩稿	yun ting shi gao		01					1			20	2510						load	20250317			
-67848	鄧尉山房集	deng wei shan fang ji		01					1			20	2510						load	20250317			
-67849	文選精寶	wen xuan jing bao		01					0			15	64847						load	20250317			
-67850	山居雪課	shan ju xue ke		01					0			19	65192						load	20250317			
-67851	貝研齋詩集	bei yan zhai shi ji		01					1			19	65192						load	20250317			
-67852	鳳皇媒傳奇	feng huang mei chuan qi		01					0			19	65192						load	20250317			
-67853	羣經本義	qun jing ben yi		01					0			None	2510						load	20250317			
-67854	史類編年	shi lei bian nian		01					0			None	2510						load	20250317			
-67855	洪範皇極內篇解	hong fan huang ji nei pian jie		01					0			None	2510						load	20250317			
-67856	河圖洛書辨	he tu luo shu bian		01					0			None	2510						load	20250317			
-67857	理學淵源論	li xue yuan yuan lun		01					0			None	2510						load	20250317			
-67858	金石考	jin shi kao		01					0			None	2510						load	20250317			
+67861	潭濱雜志	tan bin za zhi		01					0			20	65192						load	20250321			
+67862	納瓢吟	na piao yin		01					0			20	65192						load	20250321			
+67863	無聲集	wu sheng ji		01					1			20	65192						load	20250321			
+67864	且閒軒稿	qie xian xuan gao		01					1			20	65192						load	20250321			
+67865	南山樵隱詩: 二卷	nan shan qiao yin shi		01					0			20	65192						load	20250321			
+67866	香葉草堂詩存	xiang ye cao tang shi cun		01					0			20	65192						load	20250321			
+67867	巢林集	chao lin ji		01					1			20	65192						load	20250321			
+67868	聽雨樓詩稿	ting yu lou shi gao		01					1			20	65192						load	20250321			
+67869	蒹浦叢書	jian pu cong shu		01					0			20	65192						load	20250321			
+67870	寒衾集: 一卷	han qin ji		01					1			20	65192						load	20250321			
