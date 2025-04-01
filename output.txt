@@ -1,11 +1,22 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-67861	潭濱雜志	tan bin za zhi		01					0			20	65192						load	20250321			
-67862	納瓢吟	na piao yin		01					0			20	65192						load	20250321			
-67863	無聲集	wu sheng ji		01					1			20	65192						load	20250321			
-67864	且閒軒稿	qie xian xuan gao		01					1			20	65192						load	20250321			
-67865	南山樵隱詩: 二卷	nan shan qiao yin shi		01					0			20	65192						load	20250321			
-67866	香葉草堂詩存	xiang ye cao tang shi cun		01					0			20	65192						load	20250321			
-67867	巢林集	chao lin ji		01					1			20	65192						load	20250321			
-67868	聽雨樓詩稿	ting yu lou shi gao		01					1			20	65192						load	20250321			
-67869	蒹浦叢書	jian pu cong shu		01					0			20	65192						load	20250321			
-67870	寒衾集: 一卷	han qin ji		01					1			20	65192						load	20250321			
+67872	諫垣草疏	jian yuan cao shu		01					0			19	57941						load	20250331			
+67873	經畧問奇	jing lve wen qi		01					0			19	57941						load	20250331			
+67874	輪飛陣法	lun fei zhen fa		01					0			19	57941						load	20250331			
+67875	巷語	xiang yu		01					0			19	57941						load	20250331			
+67876	書傳刪補菉	shu chuan shan bu lu		01					0			19	57941						load	20250331			
+67877	漪園集	yi yuan ji		01					1			19	57941						load	20250331			
+67878	閩讞漫記	min yan man ji		01					0			19	57941						load	20250331			
+67879	詩經講意	shi jing jiang yi		01					0			19	57941						load	20250331			
+67880	魯瞻文集	lu zhan wen ji		01					1			19	57941						load	20250331			
+67881	經書疑義	jing shu yi yi		01					0			19	57941						load	20250331			
+67882	三教測	san jiao ce		01					0			19	57941						load	20250331			
+67883	三才蠡測	san cai li ce		01					0			19	57941						load	20250331			
+67884	潯關雜詠	xun guan za yong		01					0			19	57941						load	20250331			
+67885	星槎集	xing cha ji		01					1			19	57941						load	20250331			
+67886	夢莊詩草	meng zhuang shi cao		01					1			19	57941						load	20250331			
+67887	秋水堂集	qiu shui tang ji		01					1			19	57941						load	20250331			
+67888	汪子寐語	wang zi mei yu		01					0			19	57941						load	20250331			
+67889	留臺疏草	liu tai shu cao		01					1			19	57941						load	20250331			
+67890	燕邸紀聞	yan di ji wen		01					0			19	57941						load	20250331			
+67891	四書五經述解	si shu wu jing shu jie		01					0			20	57941						load	20250331			
+67892	唐詩類苑	tang shi lei yuan		01					0			20	57941						load	20250331			
