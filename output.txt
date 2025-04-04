@@ -1,22 +1,19 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-67872	諫垣草疏	jian yuan cao shu		01					0			19	57941						load	20250331			
-67873	經畧問奇	jing lve wen qi		01					0			19	57941						load	20250331			
-67874	輪飛陣法	lun fei zhen fa		01					0			19	57941						load	20250331			
-67875	巷語	xiang yu		01					0			19	57941						load	20250331			
-67876	書傳刪補菉	shu chuan shan bu lu		01					0			19	57941						load	20250331			
-67877	漪園集	yi yuan ji		01					1			19	57941						load	20250331			
-67878	閩讞漫記	min yan man ji		01					0			19	57941						load	20250331			
-67879	詩經講意	shi jing jiang yi		01					0			19	57941						load	20250331			
-67880	魯瞻文集	lu zhan wen ji		01					1			19	57941						load	20250331			
-67881	經書疑義	jing shu yi yi		01					0			19	57941						load	20250331			
-67882	三教測	san jiao ce		01					0			19	57941						load	20250331			
-67883	三才蠡測	san cai li ce		01					0			19	57941						load	20250331			
-67884	潯關雜詠	xun guan za yong		01					0			19	57941						load	20250331			
-67885	星槎集	xing cha ji		01					1			19	57941						load	20250331			
-67886	夢莊詩草	meng zhuang shi cao		01					1			19	57941						load	20250331			
-67887	秋水堂集	qiu shui tang ji		01					1			19	57941						load	20250331			
-67888	汪子寐語	wang zi mei yu		01					0			19	57941						load	20250331			
-67889	留臺疏草	liu tai shu cao		01					1			19	57941						load	20250331			
-67890	燕邸紀聞	yan di ji wen		01					0			19	57941						load	20250331			
-67891	四書五經述解	si shu wu jing shu jie		01					0			20	57941						load	20250331			
-67892	唐詩類苑	tang shi lei yuan		01					0			20	57941						load	20250331			
+67895	宋史稿: 一百七十卷	song shi gao		01					1			20	2510						load	20250404			
+67896	歙浦餘輝錄	she pu yu hui lu		01					0			20	65192						load	20250404			
+67897	聽秋齋詩: 二卷	ting qiu zhai shi		01					0			20	65192						load	20250404			
+67898	讀易軒詩存	du yi xuan shi cun		01					0			20	65192						load	20250404			
+67899	曠盧書畫舫	kuang lu shu hua fang		01					0			20	65192						load	20250404			
+67900	蓬壺軒稿	peng hu xuan gao		01					1			19	6464						load	20250404			
+67901	汪尹子印識: 四卷	wang yin zi yin shi		01					0			19	65192						load	20250404			
+67902	紅术軒印範: 一卷	hong shu xuan yin fan		01					0			20	65192						load	20250404			
+67903	紅术軒山水篆冊: 四卷	hong shu xuan shan shui zhuan ce		01					0			20	65192						load	20250404			
+67904	稽古堂印譜	ji gu tang yin pu		01					0			20	65192						load	20250404			
+67905	鏡潭印賞: 十卷	jing tan yin shang		01					0			20	65192						load	20250404			
+67906	臨飛鴻堂: 八卷	lin fei hong tang		01					0			20	65192						load	20250404			
+67907	十友齋印賞	shi you zhai yin shang		01					0			20	65192						load	20250404			
+67908	四軌園印林	si gui yuan yin lin		01					0			20	65192						load	20250404			
+67909	述古堂印譜: 二十四卷	shu gu tang yin pu		01					0			20	65192						load	20250404			
+67910	劍庵印存: 四卷	jian an yin cun		01					0			20	65192						load	20250404			
+67911	心經印譜: 一卷	xin jing yin pu		01					0			20	65192						load	20250404			
+67912	印事所知: 一卷	yin shi suo zhi		01					0			20	65192						load	20250404			
