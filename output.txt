@@ -1,19 +1,20 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-67895	宋史稿: 一百七十卷	song shi gao		01					1			20	2510						load	20250404			
-67896	歙浦餘輝錄	she pu yu hui lu		01					0			20	65192						load	20250404			
-67897	聽秋齋詩: 二卷	ting qiu zhai shi		01					0			20	65192						load	20250404			
-67898	讀易軒詩存	du yi xuan shi cun		01					0			20	65192						load	20250404			
-67899	曠盧書畫舫	kuang lu shu hua fang		01					0			20	65192						load	20250404			
-67900	蓬壺軒稿	peng hu xuan gao		01					1			19	6464						load	20250404			
-67901	汪尹子印識: 四卷	wang yin zi yin shi		01					0			19	65192						load	20250404			
-67902	紅术軒印範: 一卷	hong shu xuan yin fan		01					0			20	65192						load	20250404			
-67903	紅术軒山水篆冊: 四卷	hong shu xuan shan shui zhuan ce		01					0			20	65192						load	20250404			
-67904	稽古堂印譜	ji gu tang yin pu		01					0			20	65192						load	20250404			
-67905	鏡潭印賞: 十卷	jing tan yin shang		01					0			20	65192						load	20250404			
-67906	臨飛鴻堂: 八卷	lin fei hong tang		01					0			20	65192						load	20250404			
-67907	十友齋印賞	shi you zhai yin shang		01					0			20	65192						load	20250404			
-67908	四軌園印林	si gui yuan yin lin		01					0			20	65192						load	20250404			
-67909	述古堂印譜: 二十四卷	shu gu tang yin pu		01					0			20	65192						load	20250404			
-67910	劍庵印存: 四卷	jian an yin cun		01					0			20	65192						load	20250404			
-67911	心經印譜: 一卷	xin jing yin pu		01					0			20	65192						load	20250404			
-67912	印事所知: 一卷	yin shi suo zhi		01					0			20	65192						load	20250404			
+67916	治齋集	zhi zhai ji		01					1			19	2067						load	20250411			
+67917	石癲印草	shi dian yin cao		01					1			20	65192						load	20250411			
+67918	頑石山房印存	wan shi shan fang yin cun		01					0			20	65192						load	20250411			
+67919	肖石印存	xiao shi yin cun		01					0			20	65192						load	20250411			
+67920	雲間顧氏印譜	yun jian gu shi yin pu		01					0			19	65192						load	20250411			
+67921	海陽吳氏印譜	hai yang wu shi yin pu		01					0			19	65192						load	20250411			
+67922	程氏墨苑: 十二卷	cheng shi mo yuan		01					0			19	65192						load	20250411			
+67923	幼博集	you bo ji		01					1			19	65192						load	20250411			
+67924	圜中草	huan zhong cao		01					1			19	65192						load	20250411			
+67925	方氏墨譜: 六卷	fang shi mo pu		01					0			19	65192						load	20250411			
+67926	佳日樓詩集: 十二卷	jia ri lou shi ji		01					1			19	65192						load	20250411			
+67927	佳日樓詩集續集: 一卷	jia ri lou shi ji xu ji		01					1			19	65192						load	20250411			
+67928	曹氏墨林: 二卷	cao shi mo lin		01					0			20	65192						load	20250411			
+67929	鑑古齋墨藪	jian gu zhai mo sou		01					0			20	65192						load	20250411			
+67930	太古遺音	tai gu yi yin		01					0			19	65192						load	20250411			
+67931	誠一堂琴譜	cheng yi tang qin pu		01					0			20	65192						load	20250411			
+67932	太古元音琴譜	tai gu yuan yin qin pu		01					0			20	65192						load	20250411			
+67933	桐園草堂琴譜	tong yuan cao tang qin pu		01					0			20	65192						load	20250411			
+67934	眉山墅隱弈譜	mei shan shu yin yi pu		01					0			20	65192						load	20250411			
