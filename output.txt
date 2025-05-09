@@ -1,4 +1,61 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-68004	秘冊彙函	mi ce hui han		01					0			19	67007						load	20250507			
-68005	雙清集	shuang qing ji		01					1			19	2067						load	20250507			
-68006	律解辯疑	lv jie bian yi		01					0			None	2067						load	20250507			
+68008	易述詩文集	yi shu shi wen ji		01					1			20	4565						load	20250509			
+68009	練濤集	lian tao ji		01					1			20	4565						load	20250509			
+68010	槐署日記	huai shu ri ji		01					0			20	4565						load	20250509			
+68011	學山文集	xue shan wen ji		01					1			20	4565						load	20250509			
+68012	養齋小稿: 十卷	yang zhai xiao gao		01					1			20	4565						load	20250509			
+68013	四畱堂稿: 二十卷	si liu tang gao		01					1			20	4565						load	20250509			
+68014	韻府補: 二十卷	yun fu bu		01					0			20	4565						load	20250509			
+68015	忘憂草	wang you cao		01					1			20	6464						load	20250509			
+68016	周禮纂要輯註	zhou li zuan yao ji zhu		01					0			20	6464						load	20250509			
+68017	閩遊詩鈔	min you shi chao		01					0			20	6464						load	20250509			
+68018	見滄山房稿	jian cang shan fang gao		01					1			20	6464						load	20250509			
+68019	增訂小四書	zeng ding xiao si shu		01					0			20	6464						load	20250509			
+68020	驢背集	lv bei ji		01					1			20	6464						load	20250509			
+68021	易水村集	yi shui cun ji		01					1			20	6464						load	20250509			
+68022	潄石堂集	shu shi tang ji		01					1			20	6464						load	20250509			
+68023	蘭友集	lan you ji		01					1			20	6464						load	20250509			
+68024	續圖經	xu tu jing		01					0			20	6464						load	20250509			
+68025	藝文續編	yi wen xu bian		01					0			20	6464						load	20250509			
+68026	香樹齋集	xiang shu zhai ji		01					1			20	6464						load	20250509			
+68027	柳堂詩話	liu tang shi hua		01					0			20	6464						load	20250509			
+68028	詩稿四集	shi gao si ji		01					1			20	6464						load	20250509			
+68029	益壽翁詩稿	yi shou weng shi gao		01					1			20	6464						load	20250509			
+68030	歌風堂詩鈔	ge feng tang shi chao		01					0			20	6464						load	20250509			
+68031	粵程稿	yue cheng gao		01					1			20	6464						load	20250509			
+68032	八銘堂詩集	ba ming tang shi ji		01					1			20	6464						load	20250509			
+68033	友于集	you yu ji		01					1			20	6464						load	20250509			
+68034	先覺集	xian jue ji		01					1			19	4565						load	20250509			
+68035	秋鴻草	qiu hong cao		01					1			19	4565						load	20250509			
+68036	蘧盧草	qu lu cao		01					1			19	4565						load	20250509			
+68037	獨居錄	du ju lu		01					0			19	4565						load	20250509			
+68038	證學吟	zheng xue yin		01					0			19	4565						load	20250509			
+68039	經義注釋	jing yi zhu shi		01					0			19	4565						load	20250509			
+68040	涵虛閣草	han xu ge cao		01					1			19	4565						load	20250509			
+68041	東江詩鈔	dong jiang shi chao		01					0			20	68002						load	20250509			
+68042	如蘭軒詩集	ru lan xuan shi ji		01					1			20	68002						load	20250509			
+68043	笠亭詩鈔	li ting shi chao		01					0			20	68002						load	20250509			
+68044	明人詩鈔	ming ren shi chao		01					0			20	68002						load	20250509			
+68045	傅巖集	fu yan ji		01					1			20	68002						load	20250509			
+68046	古衡山房詩集	gu heng shan fang shi ji		01					1			20	68002						load	20250509			
+68047	寅谷詩稿	yin gu shi gao		01					1			20	68002						load	20250509			
+68048	春秋繁露註	chun qiu fan lu zhu		01					0			20	68002						load	20250509			
+68049	方言考略	fang yan kao lve		01					0			20	68002						load	20250509			
+68050	捫蝨軒詩文集	men shi xuan shi wen ji		01					1			20	68002						load	20250509			
+68051	南垞文稿	nan cha wen gao		01					1			20	68002						load	20250509			
+68052	松喬詩鈔	song qiao shi chao		01					0			20	68002						load	20250509			
+68053	東岸草堂類稿	dong an cao tang lei gao		01					1			20	4565						load	20250509			
+68054	讀史碎言	du shi sui yan		01					0			20	4565						load	20250509			
+68055	批點檀弓孟子	pi dian tan gong meng zi		01					0			20	4565						load	20250509			
+68056	滇南計程小草	dian nan ji cheng xiao cao		01					1			20	68002						load	20250509			
+68057	小滄洲集	xiao cang zhou ji		01					1			20	68002						load	20250509			
+68058	金臺集	jin tai ji		01					1			20	68002						load	20250509			
+68059	鴛湖集	yuan hu ji		01					1			20	68002						load	20250509			
+68060	章安集	zhang an ji		01					1			20	68002						load	20250509			
+68061	寄吾廬詩稿	ji wu lu shi gao		01					1			20	68002						load	20250509			
+68062	春山詩存: 四卷	chun shan shi cun		01					0			20	68002						load	20250509			
+68063	倚雲軒詩鈔	yi yun xuan shi chao		01					0			20	68002						load	20250509			
+68064	治經堂詩文集: 四十卷	zhi jing tang shi wen ji		01					1			20	68002						load	20250509			
+68065	日次詩: 二卷	ri ci shi		01					0			20	68002						load	20250509			
+68066	信疑隨筆: 十二卷	xin yi sui bi		01					0			20	68002						load	20250509			
+68067	鶴天鯨海詩文稿	he tian jing hai shi wen gao		01					1			20	68002						load	20250509			
