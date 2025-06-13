@@ -1,19 +1,14 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-68153	胡比部詩文集	hu bi bu shi wen ji		01					1			19	68002						load	20250606			
-68154	日鑒齋文存	ri jian zhai wen cun		01					0			None	57941						load	20250606			
-68155	日鑒齋詩稿	ri jian zhai shi gao		01					1			None	57941						load	20250606			
-68156	元暢閣集	yuan chang ge ji		01					1			19	68002						load	20250606			
-68157	孝慈備覽	xiao ci bei lan		01					0			20	4565						load	20250606			
-68158	音潮草堂集	yin chao cao tang ji		01					1			19	68002						load	20250606			
-68159	四書心解	si shu xin jie		01					0			19	68002						load	20250606			
-68160	尙書微	shang shu wei		01					0			19	68002						load	20250606			
-68161	修身要言	xiu shen yao yan		01					0			19	68002						load	20250606			
-68162	自怡悅詩草	zi yi yue shi cao		01					1			19	68002						load	20250606			
-68163	兵法通鑑	bing fa tong jian		01					0			19	68002						load	20250606			
-68164	策論	ce lun		01					0			19	68002						load	20250606			
-68165	學稼軒草	xue jia xuan cao		01					1			19	68002						load	20250606			
-68166	海鹽圖經	hai yan tu jing		01					0			19	68002						load	20250606			
-68167	續文選	xu wen xuan		01					0			19	68002						load	20250606			
-68168	靖康咨鑒錄	jing kang zi jian lu		01					0			19	68002						load	20250606			
-68169	唐詩統籤	tang shi tong qian		01					0			19	68002						load	20250606			
-68170	林厯詩集	lin li shi ji		01					1			20	4565						load	20250606			
+68154	方塘稿略	fang tang gao lve		01					0			19	38685						load	20250613			
+68155	主靜主敬會言	zhu jing zhu jing hui yan		01					0			19	38685						load	20250613			
+68156	履菴集	lv an ji		01					1			19	2067						load	20250613			
+68157	牛禁	niu jin		01					0			19	38685						load	20250613			
+68158	鹍化草	kun hua cao		01					1			19	38685						load	20250613			
+68159	伯子诗草	bo zi shi cao		01					1			19	38685						load	20250613			
+68160	漱玉堂集	shu yu tang ji		01					1			19	38685						load	20250613			
+68161	鐵庵集	tie an ji		01					1			19	68002						load	20250613			
+68162	存笥集	cun si ji		01					1			19	68002						load	20250613			
+68163	識大編	shi da bian		01					0			19	68002						load	20250613			
+68164	問業紀事	wen ye ji shi		01					0			19	68002						load	20250613			
+68165	聚好錄	ju hao lu		01					0			19	4565						load	20250613			
+68166	筆峰稿	bi feng gao		01					1			19	4565						load	20250613			
