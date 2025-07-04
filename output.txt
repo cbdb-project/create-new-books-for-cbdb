@@ -1,9 +1,21 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-68182	謫仙居稿	zhe xian ju gao		01					1			19	68002						load	20250627			
-68183	居喪撮要	ju sang cuo yao		01					0			19	68002						load	20250627			
-68184	佩觿稿	pei xi gao		01					1			19	68002						load	20250627			
-68185	素軒稿	su xuan gao		01					1			19	68002						load	20250627			
-68186	五音字書辨訛	wu yin zi shu bian e		01					0			19	68002						load	20250627			
-68187	藏詩稿	cang shi gao		01					1			19	68002						load	20250627			
-68188	咏史诗	yong shi shi		01					0			19	68002						load	20250627			
-68189	禮翼: 四卷	li yi		01					0			19	68002						load	20250627			
+68191	續文選: 三十二卷	xu wen xuan		01					0			19	68002						load	20250705			
+68192	淸遠堂集	qing yuan tang ji		01					1			19	68002						load	20250705			
+68193	論語逸編	lun yu yi bian		01					0			19	68002						load	20250705			
+68194	東夷事略	dong yi shi lve		01					0			None	68002						load	20250705			
+68195	海甯衞乘: 十卷	hai ning wei cheng		01					0			19	68002						load	20250705			
+68196	鳴吾雜著: 一卷	ming wu za zhu		01					0			19	68002						load	20250705			
+68197	環玉山房集	huan yu shan fang ji		01					1			19	68002						load	20250705			
+68198	濩略: 十卷	huo lve		01					0			19	68002						load	20250705			
+68199	蓬蒿園集	peng hao yuan ji		01					1			19	68002						load	20250705			
+68200	蘇菴集	su an ji		01					1			19	68002						load	20250705			
+68201	周易註傳	zhou yi zhu chuan		01					0			19	68002						load	20250705			
+68202	春秋左傳典略: 十二卷	chun qiu zuo chuan dian lve		01					0			19	68002						load	20250705			
+68203	洪永紀事本末	hong yong ji shi ben mo		01					0			19	68002						load	20250705			
+68204	漢書雋	han shu juan		01					0			19	68002						load	20250705			
+68205	李義山詩牋	li yi shan shi jian		01					0			19	68002						load	20250705			
+68206	八代詩牋	ba dai shi jian		01					0			19	68002						load	20250705			
+68207	蕭機詩牋	xiao ji shi jian		01					0			19	68002						load	20250705			
+68208	思居堂集	si ju tang ji		01					1			19	68002						load	20250705			
+68209	新安名族志	xin an ming zu zhi		01					0			19	4565						load	20250705			
+68210	南遊集	nan you ji		01					1			20	4565						load	20250705			
