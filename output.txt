@@ -1,4 +1,43 @@
 ﻿c_textid	c_title_chn	c_title	c_title_trans	c_text_type_id	c_text_year	c_text_nh_code	c_text_nh_year	c_text_range_code	c_bibl_cat_code	c_extant	c_text_country	c_text_dy	c_source	c_pages	c_secondary_source_author	c_url_api	c_url_homepage	c_notes	c_title_alt_chn	c_created_by	c_created_date	c_modified_by	c_modified_date
-68837	回省錄	hui sheng lu		01					0			20	68286						load	20250926			
-68838	四書合參	si shu he can		01					0			20	68286						load	20250926			
-68839	耕閒偶吟	geng xian ou yin		01					0			20	68286						load	20250926			
+68841	樂庵類稿	le an lei gao		01					1			18	68002						load	20251003			
+68842	嗜泉詩存	shi quan shi cun		01					0			19	68002						load	20251003			
+68843	西村詩集	xi cun shi ji		01					1			19	68002						load	20251003			
+68844	斲冰集	zhuo bing ji		01					1			19	68002						load	20251003			
+68845	易疑詩疑	yi yi shi yi		01					0			19	68002						load	20251003			
+68846	个亭集	ge ting ji		01					1			19	68002						load	20251003			
+68847	莧園集	xian yuan ji		01					1			19	68002						load	20251003			
+68848	浣筆池藏稿	huan bi chi cang gao		01					1			19	68002						load	20251003			
+68849	侖者菑	lun zhe zai		01					0			19	68002						load	20251003			
+68850	勿个集	wu ge ji		01					1			19	68002						load	20251003			
+68851	寤歌室集	wu ge shi ji		01					1			19	68002						load	20251003			
+68852	𣏌憂草	𣏌 you cao		01					1			19	68002						load	20251003			
+68853	正氣集	zheng qi ji		01					1			19	68002						load	20251003			
+68854	梅癡集稿	mei chi ji gao		01					1			19	68002						load	20251003			
+68855	蘗亭鳴稿	bo ting ming gao		01					1			19	68002						load	20251003			
+68856	四書不夜篇二十卷	si shu bu ye pian er shi juan		01					0			19	68002						load	20251003			
+68857	周易然犀五卷	zhou yi ran xi wu juan		01					0			19	68002						load	20251003			
+68858	三才匯璧四卷	san cai hui bi si juan		01					0			19	68002						load	20251003			
+68859	醫學指南十卷	yi xue zhi nan shi juan		01					0			19	68002						load	20251003			
+68860	元科秘要四卷	yuan ke mi yao si juan		01					0			19	68002						load	20251003			
+68861	經騐良方十二卷	jing yan liang fang shi er juan		01					0			19	68002						load	20251003			
+68862	幼幼心法二卷	you you xin fa er juan		01					0			19	68002						load	20251003			
+68863	元修最上乘二卷	yuan xiu zui shang cheng er juan		01					0			19	68002						load	20251003			
+68864	自懲要則	zi cheng yao ze		01					0			20	68002						load	20251003			
+68865	裴子言醫	pei zi yan yi		01					0			20	68002						load	20251003			
+68866	刪潤原病式	shan run yuan bing shi		01					0			20	68002						load	20251003			
+68867	學圃堂集	xue pu tang ji		01					1			20	68002						load	20251003			
+68868	耕餘集	geng yu ji		01					1			20	68002						load	20251003			
+68869	捫䣛軒詩草	men qi xuan shi cao		01					1			20	68002						load	20251003			
+68870	侜浦詩鈔	zhou pu shi chao		01					0			20	68002						load	20251003			
+68871	傷寒家秘心法	shang han jia mi xin fa		01					0			19	68002						load	20251003			
+68872	小兒正蒙	xiao er zheng meng		01					0			19	68002						load	20251003			
+68873	藥性辨疑	yao xing bian yi		01					0			19	68002						load	20251003			
+68874	明醫會要	ming yi hui yao		01					0			19	68002						load	20251003			
+68875	醫經大旨	yi jing da zhi		01					0			19	68002						load	20251003			
+68876	診脈家寶	zhen mai jia bao		01					0			19	68002						load	20251003			
+68877	藥性準繩	yao xing zhun sheng		01					0			19	68002						load	20251003			
+68878	卜經一卷	bo jing yi juan		01					0			19	68002						load	20251003			
+68879	傷寒五法	shang han wu fa		01					0			20	68002						load	20251003			
+68880	證治百問	zheng zhi bai wen		01					0			20	68002						load	20251003			
+68881	新方八法	xin fang ba fa		01					0			20	68002						load	20251003			
+68882	玉倉詩鈔	yu cang shi chao		01					0			20	4763						load	20251003			
